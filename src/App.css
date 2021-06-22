@@ -1,0 +1,59 @@
+.sameHeight {
+  display: flex;
+  flex-direction: row;
+  flex-flow: wrap;
+  justify-content: space-between;
+  align-items: stretch;
+}
+.social i {
+  padding: 2px;
+  color: rgb(68, 68, 68);
+}
+.mt {
+  margin-top: 1.5rem;
+}
+.pt {
+  padding-top: 0.75rem;
+}
+h5 {
+  font-size: 1.5rem;
+  padding-bottom: 0.75rem;
+}
+h6 span {
+  float: right;
+  font-size: 1rem;
+}
+.portfolio {
+  color: white;
+  font-size: 1.2rem;
+  text-decoration: underline;
+}
+div.card-content.lefty {
+  padding-bottom: 7.5rem;
+}
+@media only screen and (max-width: 992px) {
+  .social i {
+    padding: 2px;
+    color: #fff;
+  }
+}
+@media only screen and (max-width: 420px) {
+  h2 {
+    font-size: 1.5rem;
+  }
+  h5 {
+    font-size: 1.2rem;
+    padding-bottom: 0.75rem;
+  }
+  h6 {
+    padding-bottom: 1rem;
+    line-height: 140%;
+  }
+  h6 strong {
+    display: block;
+  }
+  h6 span {
+    float: left;
+    font-size: 90%;
+  }
+}
