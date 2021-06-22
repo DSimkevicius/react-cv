@@ -14,13 +14,13 @@ export default class Contact extends Component {
             <p className="portfolio white-text text pt">+370 622 36 179</p>
 
             <h5 className="white-text text-lighten-3 pt">
-              Portfolio Homepage:
+              You can check my projects here:
             </h5>
             <p>
               <a className="portfolio" href="http://dsimkevicius.lt/">
                 http://dsimkevicius.lt/
               </a>
-            </p>
+            </p>     
           </div>
         </div>
       </div>
