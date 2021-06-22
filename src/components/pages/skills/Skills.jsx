@@ -61,7 +61,16 @@ export default class Skills extends Component {
                   ></div>
                 </div>
               </div>
-            </div>
+              <div className="col m6 s12">
+                <p className="grey-text text-lighten-3">REACT</p>
+                <div className="progress white">
+                  <div
+                    className="determinate pink accent-3"
+                    style={{ width: "75%" }}
+                  ></div>
+                </div>
+              </div>
+              </div>
           </div>
         </div>
       </div>
