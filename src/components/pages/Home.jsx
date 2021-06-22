@@ -11,7 +11,7 @@ export default class Home extends Component {
     return (
       <section>
         <div className="row sameHeight">
-          <div className="col s12 m12 l4 red lighten-2 sameHeight_child">
+          <div className="col s12 m12 l4 teal darken-3 sameHeight_child">
             <Profile />
             <Contact />
             <Skills />

@@ -4,7 +4,7 @@ export default class Profile extends Component {
   render() {
     return (
       <div>
-        <div className="card red lighten-2 z-depth-0 hide-on-large-only">
+        <div className="card teal darken-3 z-depth-0 hide-on-large-only">
           <div className="card-content center social">
             <h2 className="grey-text text-lighten-3">
               <strong>Dovydas Šimkevičius</strong>
