@@ -23,6 +23,8 @@ export default class Experiences extends Component {
                     CodeAcademy experience by creating projects, apps using web
                     development languages as HTML, CSS, JS, NodeJS, MYSQL. Also
                     using JS libraries for building web interfaces (REACT, VUE).
+                    Also learned some basics how to use platforms such as
+                    Firebase, AWS, DigitalOcean.
                   </p>
                 </blockquote>
               </div>

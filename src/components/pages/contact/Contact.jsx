@@ -17,10 +17,14 @@ export default class Contact extends Component {
               You can check my projects here:
             </h5>
             <p>
-              <a className="portfolio" href="http://dsimkevicius.lt/">
-                http://dsimkevicius.lt/
+              <h6>Todo app with functions using REACT</h6>
+              <a
+                className="portfolio"
+                href="https://simkevicius-todo.netlify.app/"
+              >
+                https://simkevicius-todo.netlify.app/
               </a>
-            </p>     
+            </p>
           </div>
         </div>
       </div>

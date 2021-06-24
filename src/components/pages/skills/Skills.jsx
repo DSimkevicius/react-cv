@@ -16,7 +16,7 @@ export default class Skills extends Component {
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
-                    style={{ width: "90%" }}
+                    style={{ width: "80%" }}
                   ></div>
                 </div>
               </div>
@@ -26,7 +26,7 @@ export default class Skills extends Component {
                   <div
                     className="determinate pink accent-3
                     "
-                    style={{ width: "90%" }}
+                    style={{ width: "80%" }}
                   ></div>
                 </div>
               </div>
@@ -37,7 +37,7 @@ export default class Skills extends Component {
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
-                    style={{ width: "80%" }}
+                    style={{ width: "67%" }}
                   ></div>
                 </div>
               </div>
@@ -46,7 +46,7 @@ export default class Skills extends Component {
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
-                    style={{ width: "65%" }}
+                    style={{ width: "50%" }}
                   ></div>
                 </div>
               </div>
@@ -57,7 +57,7 @@ export default class Skills extends Component {
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
-                    style={{ width: "65%" }}
+                    style={{ width: "55%" }}
                   ></div>
                 </div>
               </div>
@@ -66,11 +66,11 @@ export default class Skills extends Component {
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
-                    style={{ width: "75%" }}
+                    style={{ width: "55%" }}
                   ></div>
                 </div>
               </div>
-              </div>
+            </div>
           </div>
         </div>
       </div>
