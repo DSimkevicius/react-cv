@@ -23,16 +23,23 @@ h6 span {
   float: right;
   font-size: 1rem;
 }
-h6 {
-  color: white;
-}
+
 .portfolio {
   color: white;
   font-size: 1.2rem;
+  margin-right: 1rem;
   text-decoration: underline;
 }
 div.card-content.lefty {
   padding-bottom: 7.5rem;
+}
+.color-change {
+  color: white;
+  margin-left: 1rem;
+}
+.color-changer {
+  color: white;
+  margin-left: 1.7rem;
 }
 @media only screen and (max-width: 992px) {
   .social i {

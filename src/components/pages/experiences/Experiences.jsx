@@ -16,15 +16,15 @@ export default class Experiences extends Component {
               <div className="col s12">
                 <blockquote className="content-right">
                   <h6 className="no-pad mt-bottom">
-                    <storng>FRONT-END DEVELOPER</storng>
+                    <strong>FRONT-END DEVELOPER</strong>
                     <span>2020 - 2021</span>
                   </h6>
                   <p className="pt">
                     CodeAcademy experience by creating projects, apps using web
-                    development languages as HTML, CSS, JS, NodeJS, MYSQL. Also
-                    using JS libraries for building web interfaces (REACT, VUE).
-                    Also learned some basics how to use platforms such as
-                    Firebase, AWS, DigitalOcean.
+                    development languages as HTML, CSS, JS, NodeJS, MYSQL. Using
+                    JS libraries for building web interfaces (REACT, VUE). Also
+                    learned some basics how to use platforms such as Firebase,
+                    AWS, DigitalOcean.
                   </p>
                 </blockquote>
               </div>

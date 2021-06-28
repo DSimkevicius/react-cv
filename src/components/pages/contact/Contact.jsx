@@ -17,13 +17,41 @@ export default class Contact extends Component {
               You can check my projects here:
             </h5>
             <p>
-              <h6>Todo app with functions using REACT:</h6>
+              <h6 className="orange-text">
+                Todo app with functions using REACT:
+              </h6>
               <a
                 className="portfolio"
                 href="https://simkevicius-todo.netlify.app/"
               >
-                https://simkevicius-todo.netlify.app/
+                TODO APP WEBSITE
               </a>
+              <span className="white-text">Code:</span>
+              <a
+                href="https://github.com/DSimkevicius/React-TODO"
+                target="blank"
+              >
+                <i className="fab fa-github-square fa-2x color-change"></i>
+              </a>
+              <h6 className="orange-text pt">
+                Recipe website using Vue and NodeJS (Undeployed, not finished):
+              </h6>
+              <span className="white-text">FRONT-END code: </span>{" "}
+              <a
+                href="https://github.com/DSimkevicius/recipe-page"
+                target="blank"
+              >
+                <i className="fab fa-github-square fa-2x color-change"></i>
+              </a>
+              <p>
+                <span className="white-text">BACK-END code: </span>{" "}
+                <a
+                  href="https://github.com/DSimkevicius/recipe-page-back-end"
+                  target="blank"
+                >
+                  <i className="fab fa-github-square fa-2x color-changer"></i>
+                </a>
+              </p>
             </p>
           </div>
         </div>

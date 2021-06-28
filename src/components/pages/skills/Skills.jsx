@@ -12,7 +12,7 @@ export default class Skills extends Component {
             <hr />
             <div className="row pt">
               <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">HTML</p>
+                <p className="grey-text text-lighten-3">HTML5</p>
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
@@ -42,7 +42,7 @@ export default class Skills extends Component {
                 </div>
               </div>
               <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">MYSQL</p>
+                <p className="grey-text text-lighten-3">MySQL</p>
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
@@ -62,7 +62,7 @@ export default class Skills extends Component {
                 </div>
               </div>
               <div className="col m6 s12">
-                <p className="grey-text text-lighten-3">REACT</p>
+                <p className="grey-text text-lighten-3">React</p>
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
