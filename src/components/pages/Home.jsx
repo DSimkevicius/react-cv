@@ -5,6 +5,7 @@ import About from "./about/About.jsx";
 import Skills from "./skills/Skills.jsx";
 import Experiences from "./experiences/Experiences.jsx";
 import Educations from "./educations/Educations.jsx";
+import References from "../references/References.jsx";
 
 export default class Home extends Component {
   render() {
@@ -20,6 +21,7 @@ export default class Home extends Component {
             <About />
             <Educations />
             <Experiences />
+            <References />
           </div>
         </div>
       </section>

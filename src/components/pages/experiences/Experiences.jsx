@@ -8,7 +8,7 @@ export default class Experiences extends Component {
           <div className="card-content">
             <h6>
               <strong>
-                <i className="fas fa-tools"></i> EXPERIENCE
+                <i className="fas fa-tools"></i> CODING EXPERIENCE
               </strong>
             </h6>
             <hr />
@@ -21,10 +21,13 @@ export default class Experiences extends Component {
                   </h6>
                   <p className="pt">
                     CodeAcademy experience by creating projects, apps using web
-                    development languages as HTML, CSS, JS, NodeJS, MYSQL. Using
-                    JS libraries for building web interfaces (REACT, VUE). Also
-                    learned some basics how to use platforms such as Firebase,
-                    AWS, DigitalOcean.
+                    development languages as HTML, CSS, JS, NodeJS, MySQL. Using
+                    JS libraries for building web interfaces (React, Vue). Also
+                    learned basics how to use platforms such as Firebase,
+                    DigitalOcean. As of now, I can write clean, reusable and
+                    responsive code in HTML, CSS and Javascript. I have learned
+                    how to work with CSS frameworks, such as Bulma, Boostrap and
+                    others.
                   </p>
                 </blockquote>
               </div>

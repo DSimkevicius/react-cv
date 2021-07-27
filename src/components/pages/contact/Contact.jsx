@@ -18,6 +18,19 @@ export default class Contact extends Component {
             </h5>
             <p>
               <h6 className="orange-text">
+                E-shop 🛒 CRUD functions using firebase.
+              </h6>
+              <a className="portfolio" href="https://eshop-baigiamsi.web.app/">
+                E-shop website
+              </a>
+              <span className="white-text">Code:</span>
+              <a
+                href="https://github.com/DSimkevicius/Dovydas-Simkevicius-Baigiamasis-Front"
+                target="blank"
+              >
+                <i className="fab fa-github-square fa-2x color-change"></i>
+              </a>
+              <h6 className="orange-text">
                 Todo app with functions using REACT:
               </h6>
               <a

@@ -37,7 +37,7 @@ export default class Skills extends Component {
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
-                    style={{ width: "67%" }}
+                    style={{ width: "55%" }}
                   ></div>
                 </div>
               </div>
@@ -46,7 +46,7 @@ export default class Skills extends Component {
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
-                    style={{ width: "50%" }}
+                    style={{ width: "40%" }}
                   ></div>
                 </div>
               </div>
@@ -57,7 +57,7 @@ export default class Skills extends Component {
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
-                    style={{ width: "55%" }}
+                    style={{ width: "50%" }}
                   ></div>
                 </div>
               </div>
@@ -66,7 +66,7 @@ export default class Skills extends Component {
                 <div className="progress white">
                   <div
                     className="determinate pink accent-3"
-                    style={{ width: "55%" }}
+                    style={{ width: "50%" }}
                   ></div>
                 </div>
               </div>
