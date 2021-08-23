@@ -37,7 +37,7 @@ export default class Contact extends Component {
                 className="portfolio"
                 href="https://simkevicius-todo.netlify.app/"
               >
-                TODO APP WEBSITE
+                TODO APP WEBSITE:
               </a>
               <span className="white-text">Code:</span>
               <a
@@ -47,7 +47,7 @@ export default class Contact extends Component {
                 <i className="fab fa-github-square fa-2x color-change"></i>
               </a>
               <h6 className="orange-text pt">
-                Chat application (Google auth. Real-time chatting.)
+                Chat application (Google auth. Real-time chatting.):
               </h6>
               <span className="white-text">FRONT-END code: </span>{" "}
               <a href="https://github.com/DSimkevicius/chat-app" target="blank">
