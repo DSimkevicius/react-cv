@@ -47,6 +47,13 @@ export default class Contact extends Component {
                 <i className="fab fa-github-square fa-2x color-change"></i>
               </a>
               <h6 className="orange-text pt">
+                Chat application (Google auth. Real-time chatting.)
+              </h6>
+              <span className="white-text">FRONT-END code: </span>{" "}
+              <a href="https://github.com/DSimkevicius/chat-app" target="blank">
+                <i className="fab fa-github-square fa-2x color-change"></i>
+              </a>
+              <h6 className="orange-text pt">
                 Recipe website using Vue and NodeJS (Undeployed, not finished):
               </h6>
               <span className="white-text">FRONT-END code: </span>{" "}
